@@ -1,4 +1,13 @@
-﻿<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head>
+﻿---
+layout: post
+title: libb手动添加内容2
+tags: mathjax
+math: true
+date: 2020-10-02 15:32 +0800﻿
+---
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head>
+
 <meta name="Excel Workbook Frameset">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8 with BOM">
 <meta name="ProgId" content="Excel.Sheet">
