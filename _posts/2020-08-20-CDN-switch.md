@@ -2,7 +2,6 @@
 layout: post
 title: libb手动添加内容2
 tags: mathjax
-math: true
 date: 2020-10-02 15:32 +0800﻿
 ---
 
