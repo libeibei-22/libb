@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+title: 老贝的blog
+description: A simple, beautiful, and powerful for blogs
+url: https://libeibei-22.github.io/libb
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -33,12 +33,12 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: beibei li
   links:
     - https://twitter.com/vszhub
     - https://github.com/vszhub
-google_site_verification: xxxxx
-lang: en
+# google_site_verification: xxxxx
+# lang: en
 
 sass:
   sass_dir: _sass
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: beibei li
+  url: https://libeibei-22.github.io/libb
+  email: lbb_2004@163.com
